@@ -18,7 +18,7 @@ Package made for constructing and utilizing the Ln(G) combinatorial graph.
 
 ### How To Use
 
-Download and extract the repository and run main.py in the terminal:
+Download and extract the repository and run main.py in the terminal from the directory that contains the repository:
 
 ```
 python main.py
